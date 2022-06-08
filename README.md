@@ -1,4 +1,4 @@
-# Stitches config
+# Dark Mode
 
 <p align="center">
   
