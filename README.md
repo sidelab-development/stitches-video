@@ -3,7 +3,7 @@
 <p align="center">
   
 <h4>
-  Boilerplate para facilitar na hora de criar projetos com Stitches
+  Video sobre Dark mode com Stitches
 </h4>
 
 ## 💡 Tecnologias
